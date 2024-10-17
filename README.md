@@ -1,4 +1,4 @@
-# XamMusic
+# DMusicPlayer
 Music player app for iOS and Android created using Xamarin Forms.
 
 Xamarin Forms is a cross-platform development system used to make native mobile apps using C# and XAML.
